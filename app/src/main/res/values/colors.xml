@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="unknown_service_state">#2283fa</color>
+    <color name="power_off_service_state">#313131</color>
+    <color name="out_service_state">#c60d0d</color>
+    <color name="emergency_service_state">#f76c21</color>
+    <color name="in_service_state">#039721</color>
+
+    <color name="signal_strength_unknown">#2283fa</color>
+    <color name="signal_strength_poor">#c60d0d</color>
+    <color name="signal_strength_moderate">#f76c21</color>
+    <color name="signal_strength_good">#afce03</color>
+    <color name="signal_strength_great">#039721</color>
+</resources>

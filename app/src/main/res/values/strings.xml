@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">telephony-monitor</string>
+    <string name="later">later</string>
+    <string name="retry">Retry</string>
+    <string name="permission_error_content">You must allow the requested permissions for the application to work</string>
+    <string name="error_title">Error</string>
+    <string name="gsm_area_title">Area Code</string>
+    <string name="gsm_cell_title">Cell Id</string>
+    <string name="gsm_psc_title">PSC</string>
+    <string name="cdma_error">CdmaCellLocations are not handled yet</string>
+    <string name="service_state_unknown">Unknown</string>
+    <string name="service_state_in">In Service</string>
+    <string name="service_state_out">Out of Service</string>
+    <string name="service_state_emergency">Emergency Only</string>
+    <string name="service_state_off">Power Off</string>
+    <string name="gsm_signal_unknown">Unknown</string>
+    <string name="gsm_signal_poor">Poor</string>
+    <string name="gsm_signal_moderate">Moderate</string>
+    <string name="gsm_signal_good">Good</string>
+    <string name="gsm_signal_great">Great</string>
+    <string name="signal_strength_unknown_format">Unknown signal type received</string>
+    <string name="signal_strength_title">Signal Strength</string>
+    <string name="rating">Rating:</string>
+    <string name="state">State:</string>
+    <string name="service_state_title">Service State</string>
+    <string name="cell_location_title">Cell Location</string>
+</resources>
